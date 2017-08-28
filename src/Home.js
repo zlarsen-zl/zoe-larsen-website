@@ -16,7 +16,7 @@ class Home extends Component {
       <Wrapper>
           <Image size='medium' inline src="http://res.cloudinary.com/dfzfgaosq/image/upload/v1503883902/medium_logo1600_ri4jck.png"/>
           <Blurb>
-          Check out my posts here!
+          Check out my posts here!!
           </Blurb>
       </Wrapper>
       </Link>
